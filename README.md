@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swapnil Tiwari
 - 👀 I’m interested in gaming, swimming, and football.
-- 🌱 I’m currently learning GitHub, angular, and java.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me @consolenator | <a href="https://www.linkedin.com/in/connectwithswapnil/">LinkedIn</a>
+- 🌱 I’m currently learning GitHub, MEAN, MERN, and Java (With Hibernate, Spring, Spring Boot, and JPA).
+- 💞️ I’m looking to collaborate on Mobile/Web Development Projects.
+- 📫 How to reach me <a href="https://github.com/Consolenator">@consolenator</a> | <a href="https://www.linkedin.com/in/connectwithswapnil/">LinkedIn</a>
